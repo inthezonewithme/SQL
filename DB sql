@@ -1,0 +1,8 @@
+create table client
+(
+clt_id number(10),
+clt_name varchar(30),
+clt_address varchar(50),
+clt_phone varchar(30),
+clt_email varchar(50)
+);
