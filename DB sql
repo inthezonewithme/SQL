@@ -6,3 +6,4 @@ clt_address varchar(50),
 clt_phone varchar(30),
 clt_email varchar(50)
 );
+--primary key based on the clt_id
